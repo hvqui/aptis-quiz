@@ -1,0 +1,1751 @@
+[
+    {
+        "id": 1,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How much are the eggs?",
+        "options": [
+            "1.25 pound",
+            "1.50 pound",
+            "2 pounds"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time does the train leave? (for him to go on a business trip)",
+        "options": [
+            "9.45",
+            "8.45",
+            "9.15"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "topic": "Phương tiện / Cách di chuyển",
+        "question": "How does she go to school?",
+        "options": [
+            "She walks",
+            "She drives",
+            "She goes by bus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "A woman is calling her husband. What time is lunch ready?",
+        "options": [
+            "1pm",
+            "2pm",
+            "3pm"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does she usually do in the evening?",
+        "options": [
+            "listen to music",
+            "go for a walk",
+            "go to the coffee shop"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where will they meet?",
+        "options": [
+            "at the university",
+            "at the station",
+            "at the park"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does this family do most weekends?",
+        "options": [
+            "goes with their friends",
+            "goes bowling",
+            "goes for a walk"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What day do they meet?",
+        "options": [
+            "Tuesday",
+            "Thursday",
+            "Friday"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What career did he choose?",
+        "options": [
+            "to work in business",
+            "to be a teacher",
+            "to keep studying"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What course did he take?",
+        "options": [
+            "Management",
+            "Computer",
+            "Leadership"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "A woman is talking about her job. How is being a writer different from other jobs?",
+        "options": [
+            "She works irregular time",
+            "She does not have a high salary",
+            "She has no fixed workplace"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where does she buy food?",
+        "options": [
+            "at a local market",
+            "at a convenient store",
+            "at a new shopping centre"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "What causes air pollution?",
+        "options": [
+            "Fire from the countryside",
+            "Pollutants from private cars",
+            "Smoke from factories"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time do they meet?",
+        "options": [
+            "7.30pm",
+            "6.30pm",
+            "9.30pm"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time does she meet her child?",
+        "options": [
+            "Seven o’clock",
+            "Three o’clock",
+            "Two o’clock"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does her sister drink?",
+        "options": [
+            "Water",
+            "Tea",
+            "Coffee"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How many buildings will the town have?",
+        "options": [
+            "1000",
+            "2000",
+            "3000"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does she usually do on Saturdays?",
+        "options": [
+            "plays sports",
+            "goes to the park",
+            "sees her family"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What do they both buy?",
+        "options": [
+            "Books",
+            "Trousers",
+            "Clothes"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "What color shirt did he buy?",
+        "options": [
+            "Blue",
+            "Black",
+            "Red"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When is the assignment due?",
+        "options": [
+            "on Friday",
+            "on Saturday",
+            "on Thursday"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What did the professor want her to do?",
+        "options": [
+            "Do research",
+            "Make a report",
+            "Speak at the conference"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did she choose to go on holiday?",
+        "options": [
+            "The south",
+            "The park",
+            "The mountain"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What is special about the new song?",
+        "options": [
+            "The singer’s voice",
+            "The words",
+            "The tune"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What did she like the most about the movie?",
+        "options": [
+            "the car scenes",
+            "the fight scenes",
+            "the mountain scenes"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why did she become a scientist?",
+        "options": [
+            "a large stone",
+            "her dream",
+            "her favorite collection"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time will they meet?",
+        "options": [
+            "Half past eight",
+            "Quarter to seven",
+            "Quarter to eight"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did they meet for the bus home?",
+        "options": [
+            "hotel entrance",
+            "bus station",
+            "marketplace"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How old is Stephanie?",
+        "options": [
+            "21",
+            "23",
+            "24"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is the club near?",
+        "options": [
+            "A park",
+            "A library",
+            "A coffee shop"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What to feed the cat?",
+        "options": [
+            "Milk",
+            "Fish",
+            "Cat food"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does this family do most weekends?",
+        "options": [
+            "goes with their friends",
+            "goes bowling",
+            "goes for a walk"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does he need to buy for his sister?",
+        "options": [
+            "Chocolates",
+            "Eggs",
+            "Milk"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "The train was delayed. What time does the train leave?",
+        "options": [
+            "8.45",
+            "9.15",
+            "9.30"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Which area has the best weather?",
+        "options": [
+            "In the south",
+            "In the east",
+            "In the west"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why was the museum visit cancelled?",
+        "options": [
+            "Join other activities",
+            "Poor weather conditions",
+            "Not enough people"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is the cafe?",
+        "options": [
+            "Next to the station",
+            "Near the gift shop",
+            "Opposite the gift shop"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is the tea served?",
+        "options": [
+            "The building",
+            "The river boat",
+            "The museum"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Which room is the largest in her house?",
+        "options": [
+            "Living room",
+            "Bedroom",
+            "Kitchen"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 40,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time is the meeting?",
+        "options": [
+            "9.15",
+            "10.15",
+            "10.30"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 41,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why did he call his friend?",
+        "options": [
+            "To make an appointment",
+            "To say hello",
+            "Suggest a drink"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 42,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "How does he feel?",
+        "options": [
+            "Sick",
+            "Sad",
+            "Well"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 43,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What is the mother asking her daughter to buy?",
+        "options": [
+            "eggs",
+            "chocolates",
+            "bread"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 44,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When do they meet?",
+        "options": [
+            "8.00",
+            "9.00",
+            "10.00"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 45,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why can’t she pick up her child?",
+        "options": [
+            "meet her client",
+            "have an urgent meeting",
+            "stay late at the office"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 46,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What movie does she recommend?",
+        "options": [
+            "comedy film",
+            "action film",
+            "horror film"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 47,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "A man is calling his friend. Where is he?",
+        "options": [
+            "the park",
+            "the station",
+            "the town hall"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 48,
+        "topic": "Phương tiện / Cách di chuyển",
+        "question": "What means of transport does he use to get to work?",
+        "options": [
+            "by bus",
+            "by train",
+            "by car"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 49,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time do experts recommend eating fruit?",
+        "options": [
+            "in the morning",
+            "in the afternoon",
+            "in the evening"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 50,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why does she wake up early?",
+        "options": [
+            "to exercise",
+            "to have some quiet time",
+            "to do housework"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 51,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why is he learning to drive?",
+        "options": [
+            "driving a car is his dream",
+            "he hates public transport",
+            "he has to drive to work"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 52,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does he buy directly at the shop?",
+        "options": [
+            "Books",
+            "Clothes",
+            "Trousers"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 53,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How much did he pay for the computer?",
+        "options": [
+            "350 pounds",
+            "150 pounds",
+            "250 pounds"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 54,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What did they bring for the picnic?",
+        "options": [
+            "clothes",
+            "fruit",
+            "food"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 55,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "What colour is the teacher’s house?",
+        "options": [
+            "Blue",
+            "Red",
+            "White"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 56,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time is the football match?",
+        "options": [
+            "1pm",
+            "7pm",
+            "4pm"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 57,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does she do on her holidays?",
+        "options": [
+            "Drawing",
+            "Walking",
+            "Cooking"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 58,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why does she like the manager George?",
+        "options": [
+            "He was good at his job",
+            "He paid her a lot",
+            "He taught her a lot"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 59,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What does he want to be?",
+        "options": [
+            "Reporter",
+            "Chef",
+            "Writer"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 60,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does he drink?",
+        "options": [
+            "Tea",
+            "Juice",
+            "Water"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 61,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What does he remember most about his school days?",
+        "options": [
+            "Homework",
+            "History classes",
+            "Teachers"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 62,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "What will she do?",
+        "options": [
+            "Go to the coffee shop",
+            "Go for a drive",
+            "Go on a picnic"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 63,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What does she have in common with her mother?",
+        "options": [
+            "They look like each other",
+            "They have similar interests",
+            "They have similar characteristics"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 64,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does he buy at the shop?",
+        "options": [
+            "a suit for the office",
+            "a dress for his wife",
+            "new clothes"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 65,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What do birds do in winter?",
+        "options": [
+            "They look for food reserves",
+            "They stay in groups for protection",
+            "They migrate to other regions"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 66,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why did he call his friend?",
+        "options": [
+            "To make an appointment",
+            "To say hello",
+            "Suggest a drink"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 67,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How much does the smallest car cost?",
+        "options": [
+            "1250 pounds",
+            "2250 pounds",
+            "3250 pounds"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 68,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "A woman is calling her friend. What did she lose?",
+        "options": [
+            "Phone",
+            "Bag",
+            "Key"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 69,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What did he forget?",
+        "options": [
+            "Money",
+            "Phone",
+            "Glasses"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 70,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How many Americans are there?",
+        "options": [
+            "one",
+            "two",
+            "three"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 71,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Which room is her favourite?",
+        "options": [
+            "Bathroom",
+            "Kitchen",
+            "Bedroom"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 72,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did they go last year?",
+        "options": [
+            "Camping",
+            "Cycling",
+            "Bowling"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 73,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What subject does her son like to study?",
+        "options": [
+            "Science",
+            "Art",
+            "Math"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 74,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does she usually do in her free time?",
+        "options": [
+            "Go to the theatre and play sports",
+            "Play sports and go shopping",
+            "Stay at home and shop online"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 75,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What advice do they need for decorating their living room?",
+        "options": [
+            "How to buy a sofa",
+            "Where to buy cups",
+            "Where to buy a new table"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 76,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What is his opinion on train travel?",
+        "options": [
+            "Convenient",
+            "Friendly",
+            "Practical"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 77,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What is not original?",
+        "options": [
+            "Furniture",
+            "Door",
+            "Window"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 78,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "What number do you press to buy a new computer?",
+        "options": [
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 79,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where does she walk every night?",
+        "options": [
+            "The university area",
+            "The park",
+            "The college"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 80,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How many chairs do they need to prepare for a meeting?",
+        "options": [
+            "10",
+            "20",
+            "30"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 81,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did she ask the coffee shop to look for her lost item?",
+        "options": [
+            "On the sofa",
+            "In the corner",
+            "On the table"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 82,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did they meet?",
+        "options": [
+            "The parking lot",
+            "The front entrance",
+            "The school gate"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 83,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "The daughter is calling her father. What did she buy?",
+        "options": [
+            "Trousers",
+            "A dress",
+            "Glasses"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 84,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "There will be a school party soon, what should the teacher prepare?",
+        "options": [
+            "Prepare drinks",
+            "Arrange the seat",
+            "Order the food"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 85,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When will she need a computer?",
+        "options": [
+            "Friday",
+            "Thursday",
+            "Monday"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 86,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "What country will they study next semester?",
+        "options": [
+            "France",
+            "Italy",
+            "Germany"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 87,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What do they need to repair for the building?",
+        "options": [
+            "Windows",
+            "Doors",
+            "Gate"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 88,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does the actor like to do?",
+        "options": [
+            "Jogging",
+            "Swimming",
+            "Drawing"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 89,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What new thing is being built at the school?",
+        "options": [
+            "A stadium",
+            "A Performance space",
+            "A school yard"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 90,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What does he like about Dubai?",
+        "options": [
+            "He gets a higher salary",
+            "He enjoys the weather here",
+            "He enjoys his job here"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 91,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "What does he advice young people to do to save money?",
+        "options": [
+            "Cook for yourself",
+            "Save money",
+            "Buy things online"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 92,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Which room will they study in?",
+        "options": [
+            "Room 201",
+            "Room 301",
+            "Room 302"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 93,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time is the football match?",
+        "options": [
+            "1pm",
+            "7pm",
+            "4pm"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 94,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "What is the phone number of the shop?",
+        "options": [
+            "20 10 30",
+            "10 20 30",
+            "30 10 20"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 95,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What did they bring for the picnic?",
+        "options": [
+            "clothes",
+            "fruit",
+            "food"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 96,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How many copies did he sell?",
+        "options": [
+            "Over 300000 copies",
+            "100.000 copies",
+            "30.000 copies"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 97,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where did they go last year?",
+        "options": [
+            "Camping",
+            "Cycling",
+            "Bowling"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 98,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What do they plan to do together?",
+        "options": [
+            "Go to the coffee shop",
+            "Make plans later",
+            "Have dinner together"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 99,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does the man drink?",
+        "options": [
+            "Water and iced tea",
+            "Water",
+            "Iced tea"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 100,
+        "topic": "Ai / Người nào / Sống với ai / Chụp ai",
+        "question": "Who did she take the picture of?",
+        "options": [
+            "The girl’s team",
+            "The boy’s team",
+            "Anna, Sara and the girl’s team"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 101,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where do they go when they travel to India?",
+        "options": [
+            "Go to the park",
+            "Go to famous places",
+            "Go out to eat"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 102,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What is the weather like today?",
+        "options": [
+            "Cold and not wet",
+            "Hot and wet",
+            "Cold and wet"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 103,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "How did he adjust the meeting?",
+        "options": [
+            "cancel the meeting",
+            "having the meeting without him",
+            "having the meeting another day"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 104,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "Which door do they need to take to get to Edinburgh?",
+        "options": [
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 105,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "How does he feel?",
+        "options": [
+            "Sick",
+            "Sad",
+            "Well"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 106,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "How long does it take to get to the station?",
+        "options": [
+            "15 minutes",
+            "20 minutes",
+            "25 minutes"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 107,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "What did he call to say?",
+        "options": [
+            "to say hello",
+            "to meet Felix",
+            "to say thank you"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 108,
+        "topic": "Ai / Người nào / Sống với ai / Chụp ai",
+        "question": "Who is coming to visit him this weekend?",
+        "options": [
+            "His wife",
+            "His wife’s parents",
+            "His sister and her children"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 109,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time is the meeting?",
+        "options": [
+            "2pm",
+            "10am",
+            "11am"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 110,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why can’t she pick up her child?",
+        "options": [
+            "meet her client",
+            "have an urgent meeting",
+            "stay late at the office"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 111,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How much do the cleaning products cost?",
+        "options": [
+            "one pound fifty",
+            "two pounds",
+            "one pence"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 112,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is she going with her family?",
+        "options": [
+            "The mountains",
+            "The lake",
+            "The park"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 113,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What did he usually do last year?",
+        "options": [
+            "Running",
+            "Cycling",
+            "Walking"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 114,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How many minutes did he have to speak?",
+        "options": [
+            "10",
+            "15",
+            "25"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 115,
+        "topic": "Ai / Người nào / Sống với ai / Chụp ai",
+        "question": "Who does she live with?",
+        "options": [
+            "Her colleague",
+            "Her sister",
+            "Best friends"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 116,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why does she want to be a writer?",
+        "options": [
+            "Help people",
+            "Make money",
+            "Her dream"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 117,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why was the flight canceled?",
+        "options": [
+            "There are no flight staff",
+            "Plane maintenance",
+            "Poor weather conditions"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 118,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "Why did he call his friend?",
+        "options": [
+            "To make an appointment",
+            "To say hello",
+            "Suggest a drink"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 119,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When did they decide to meet?",
+        "options": [
+            "7am on Friday",
+            "9am on Sunday",
+            "9am on Saturday"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 120,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "A girl is calling her mother. Which dress does she want?",
+        "options": [
+            "long and green",
+            "long and red",
+            "short and red"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 121,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What day is the new appointment?",
+        "options": [
+            "Thursday 13th",
+            "Tuesday 13th",
+            "Wednesday 10th"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 122,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "A man is calling his wife. Where did they meet?",
+        "options": [
+            "At the park",
+            "At the station",
+            "Outside a shop"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 123,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What did she do last weekend?",
+        "options": [
+            "Stayed at home",
+            "Went shopping",
+            "Went to the cinema"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 124,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "How many weeks have they been in India?",
+        "options": [
+            "1 week",
+            "2 weeks",
+            "3 weeks"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 125,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is the office?",
+        "options": [
+            "Opposite the hotel",
+            "Near the park",
+            "Opposite the station"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 126,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where do they wait for the bus?",
+        "options": [
+            "Next to the hotel",
+            "Near the hotel’s main entrance",
+            "By the hotel’s main entrance"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 127,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does his wife like to do?",
+        "options": [
+            "sightseeing",
+            "going shopping",
+            "photography"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 128,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What outdoor activities do they do in the afternoon?",
+        "options": [
+            "Play golf",
+            "Go to dance classes",
+            "Play bridge"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 129,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "A woman is introducing a concert. The concert will end with?",
+        "options": [
+            "A surprise performance",
+            "Some special offers",
+            "The city’s favorite group"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 130,
+        "topic": "Nghề nghiệp / Khóa học / Môn học / Yêu cầu học tập - Công việc",
+        "question": "What was the writer’s first job?",
+        "options": [
+            "cook",
+            "reporter",
+            "teacher"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 131,
+        "topic": "Đồ vật / Món ăn / Đồ uống / Mua - Mất - Quên - Chuẩn bị - Sửa",
+        "question": "What does her sister drink?",
+        "options": [
+            "Water",
+            "Tea",
+            "Coffee"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 132,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "What is the population of this village?",
+        "options": [
+            "10.000",
+            "2.000",
+            "5.000"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 133,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where does he want to go tomorrow?",
+        "options": [
+            "The town hall",
+            "The city center",
+            "The museum"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 134,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "What floor is the office on?",
+        "options": [
+            "on the first floor",
+            "on the second floor",
+            "on the third floor"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 135,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "[Không thấy phần câu hỏi và lựa chọn trong PDF]",
+        "options": [
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 136,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When can they play football at school?",
+        "options": [
+            "Friday afternoon",
+            "Wednesday afternoon",
+            "Thursday afternoon"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 137,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is the office?",
+        "options": [
+            "Opposite the hotel",
+            "Near the park",
+            "Opposite the station"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 138,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "A man is calling his wife. Where did they meet?",
+        "options": [
+            "At the park",
+            "At the station",
+            "Outside a shop"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 139,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time do he have dinner these days?",
+        "options": [
+            "6 o’clock",
+            "7 o’clock",
+            "8 o’clock"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 140,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does he do after work?",
+        "options": [
+            "Go to the coffee shop",
+            "Play football",
+            "Go home"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 141,
+        "topic": "Sở thích / Cảm xúc / Ý kiến / Đặc điểm / Thời tiết",
+        "question": "What did they both like about the movie?",
+        "options": [
+            "the characters",
+            "the ending",
+            "the plot"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 142,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "What area is he describing?",
+        "options": [
+            "a university area",
+            "a park",
+            "a library"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 143,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "A man wants to buy a new house. What is his biggest problem?",
+        "options": [
+            "choosing the proper area",
+            "financial problems",
+            "persuading his family"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 144,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "When do they meet each other?",
+        "options": [
+            "On Thursday morning",
+            "On Wednesday morning",
+            "On Tuesday morning"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 145,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How old is this city?",
+        "options": [
+            "150 years",
+            "1500 years",
+            "2000 years"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 146,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "What colour is Jack’s house?",
+        "options": [
+            "Red",
+            "Black",
+            "Green"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 147,
+        "topic": "Giá tiền / Số lượng / Con số / Tuổi / Số điện thoại",
+        "question": "How much does a bus card cost?",
+        "options": [
+            "$10",
+            "$20",
+            "$30"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 148,
+        "topic": "Địa điểm / Khu vực / Phòng / Tầng / Đi đâu",
+        "question": "Where is she taking the staff to?",
+        "options": [
+            "To a different country",
+            "To a different city",
+            "To a village"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 149,
+        "topic": "Phương tiện / Cách di chuyển",
+        "question": "How does he travel?",
+        "options": [
+            "by train",
+            "by car",
+            "by bus"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 150,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "How long does it take her to ride her bike?",
+        "options": [
+            "35 minutes",
+            "25 minutes",
+            "20 minutes"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 151,
+        "topic": "Câu thiếu / mờ / cần kiểm tra lại từ ảnh gốc",
+        "question": "[Không thấy phần câu hỏi và lựa chọn trong PDF]",
+        "options": [
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 152,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What does she usually do in her free time?",
+        "options": [
+            "Go to the theatre and play sports",
+            "Play sports and go shopping",
+            "Stay at home and shop online"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 153,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "Which sports is she good at?",
+        "options": [
+            "Running",
+            "Swimming",
+            "Football"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 154,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "What are the similarities between his mom and aunt?",
+        "options": [
+            "They were thin",
+            "They have the same eye color",
+            "They have the same hair color"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 155,
+        "topic": "Thời gian / Thứ ngày / Thời lượng",
+        "question": "What time does she usually write?",
+        "options": [
+            "In the evenings",
+            "In the afternoons",
+            "In the mornings"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 156,
+        "topic": "Lý do / Mục đích / Nguyên nhân / Lời khuyên / Điều chỉnh",
+        "question": "What did he advice for people who lack motivation at work?",
+        "options": [
+            "quit the job",
+            "ask for a salary increase",
+            "request a transfer"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 157,
+        "topic": "Câu thiếu / mờ / cần kiểm tra lại từ ảnh gốc",
+        "question": "[Không có nội dung câu 157 trong PDF]",
+        "options": [
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]",
+            "[Thiếu trong PDF]"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 158,
+        "topic": "Màu sắc / Ngoại hình / Điểm giống nhau",
+        "question": "What does her sister look like?",
+        "options": [
+            "Short",
+            "Tall",
+            "Thin"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 159,
+        "topic": "Hoạt động / Thói quen / Kế hoạch / Việc sẽ làm",
+        "question": "What did he usually do last year?",
+        "options": [
+            "Running",
+            "Cycling",
+            "Walking"
+        ],
+        "answer": 1
+    }
+]
