@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aptis Trắc nghiệm</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <header class="header">
+            <h1>📝 Aptis - Listening Part 1</h1>
+            <p>Chọn <b>1 đáp án</b> cho mỗi câu, sau đó nhấn <b>Submit & Chấm bài</b>.</p>
+        </header>
+
+        <div class="toolbar">
+            <div>
+                <label for="topicFilter"><b>Chủ đề:</b></label>
+                <select id="topicFilter">
+                    <option value="ALL">Tất cả chủ đề</option>
+                </select>
+            </div>
+
+            <button id="submitBtn" class="btn btn-primary">
+                ✅ Chấm bài
+            </button>
+            <button id="retakeBtn" class="btn btn-secondary">🔄 Làm lại</button>
+        </div>
+
+        <div id="quizInfo" class="quiz-info"></div>
+
+        <div id="resultSummary" class="result-summary hidden"></div>
+
+        <form id="quizForm"></form>
+
+        <div class="submit-area">
+            <button id="submitBtn" class="btn btn-primary">
+                ✅ Chấm bài
+            </button>
+        </div>
+
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+
+</html>
